@@ -1,3 +1,7 @@
+# Version
+
+0.2
+
 # "Starnight" One Page Website Template
 
 "Starnight" is a one page website template made by [Peter Finlan](http://peterfinlan.com/).
@@ -16,7 +20,7 @@ I encourage contributions to all of my templates and I will endeavour to review 
 
 Before contributing, please see the Contributing Guide (Coming soon).
 
-## Credits 
+## Credits
 
 ### Design
 
@@ -42,13 +46,10 @@ Designed by [Blaz Robar](http://www.blazrobar.com/)
 
 [Animate.css](https://daneden.github.io/animate.css/) by Dan Eden
 
-### Font Awesome Icons 
+### Font Awesome Icons
 
 [Font Awesome](http://fortawesome.github.io/Font-Awesome/) by Dave Gandy. Licensed under [MIT](http://opensource.org/licenses/mit-license.html)
 
 ## Misc
 
 Follow Pete: [Twitter](https://twitter.com/peterfinlan), [Dribbble](http://www.dribbble.com/peterfinlan), [GitHub](https://github.com/peterfinlan)
-
-
-
